@@ -13,9 +13,9 @@ $ pip install sympy
 
 ## List of examples
 
-* [Example 01:](Example01_3step-senescense-single-mRNA-arrivals.ipynb)
+* [Example 01:](Example01_3step-senescence-single-mRNA-arrivals.ipynb)
 3 step senescence. mRNA degradation occurs in 3 steps
-* [Example 02:](Example02_N-step-senescense-burst-of-b-mRNA-arrivals.ipynb)
+* [Example 02:](Example02_N-step-senescence-burst-of-b-mRNA-arrivals.ipynb)
 N step senescence. Here mRNAs may arrive in batches of `b` mRNA molecules in each arrival
 * [Example 03:](Example03_2-step-NuclearRetention.ipynb)
 2 step nuclear retention. In this model, each mRNA is first silent until it is exported to the cytoplasm
